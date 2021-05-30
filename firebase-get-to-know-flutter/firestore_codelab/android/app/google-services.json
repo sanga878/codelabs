@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969450226988",
+    "project_id": "fir-codelab-v1",
+    "storage_bucket": "fir-codelab-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969450226988:android:812986bce99f1cdab51889",
+        "android_client_info": {
+          "package_name": "com.example.firebase_codelab_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969450226988-s462nasq0e96av5eqncv3ddnfn06a7t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQjgqxWThx3hNavvfbbK6wDTOfX2UnjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969450226988-s462nasq0e96av5eqncv3ddnfn06a7t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
